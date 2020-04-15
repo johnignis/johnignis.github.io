@@ -88,6 +88,7 @@ ul{
   margin-top:30px;
   margin-bottom:60px;
   line-height: 1.7em;
+  list-style-type: square;
 }
 
 #intro{
